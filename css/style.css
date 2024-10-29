@@ -1,0 +1,16 @@
+body { 
+  font-family: Arial, sans-serif ;
+  margin: 20px;
+}
+h1 {
+  color:darkgreen;
+  background-color: beige;
+  border-radius: 12px;
+  padding: 20px;
+
+}
+p {
+  font-size: 30px;
+  margin: 10px;
+  padding: 10px 0px 10px 0px;
+}
